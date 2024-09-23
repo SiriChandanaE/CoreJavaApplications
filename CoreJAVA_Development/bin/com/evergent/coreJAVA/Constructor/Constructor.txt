@@ -1,0 +1,12 @@
+1.Class Name and constructor Name should be same.
+2.There are two types of Constructors: 
+	I) Default Constructor 
+	II) Parameterized Constructor
+3.We can access constructor while creation of objects.
+4.Constructors are mainly for initialization. 
+5.Constructors doesn’t have any return type. Not even void also.If we declare as void, the compiler will consider that as method not as constructor.
+6.Every class needs at least one default constructor.
+7.This: This is a keyword, always pointing to instance variable.
+8.Super: invokes methods, constructors of super class from subclass
+9.Always constructors are overloaded. 
+10.Copy Constructors: creates a new object as a copy of an existing object duplicating its value.

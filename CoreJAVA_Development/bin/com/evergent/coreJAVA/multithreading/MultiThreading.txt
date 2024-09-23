@@ -1,0 +1,8 @@
+i.Multiple threads running simultaneously reducing the CPU ideal time.
+ii.Thread is light weight and object is heavy weight.
+iii.Life cycle of a thread. All the stages in life-cycle of a thread.
+iv.We can write threads in two ways:
+	a)By extending the thread class.
+	b)By Implementing Runnable Interface.
+v.Some methods in the threads are:
+vi.Start(), Run(), isAlive(), yield(), join(), suspend(), sleep(), wait(), resume(), notify(), notifyAll(), stop().

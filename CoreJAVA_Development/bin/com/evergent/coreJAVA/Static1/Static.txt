@@ -1,0 +1,8 @@
+1.Static is a keyword.
+2.We can declare static as variables and methods
+3.We can access static variables and methods direct through classname.methodname and classname.variablename.
+4.Static methods can access static variables and static methods
+5.Static methods cannot access non-static variables and static methods
+6.Non-static methods can access static variables and static methods
+7.Static Blocks- Once a class is loaded into the JVM, static blocks are initiated first.
+8.If a static variable is modified, then it will reflected globally

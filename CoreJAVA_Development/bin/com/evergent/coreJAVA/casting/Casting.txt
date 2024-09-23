@@ -1,0 +1,10 @@
+Widening Conversion Hierarchy:
+	byte -> short -> int -> long -> float -> double
+Explicit Type Casting:
+	i.conversion of larger datatype to smaller datatype
+	ii.Explicit type casting, also known as narrowing conversion.
+Narrowing conversion Hierarchy:
+	double -> float -> long -> int -> short -> byte
+Implicit (Automatic) Type Conversion: 
+	i.conversion of smaller datatype to larger datatype
+	ii.Implicit type conversion is also known as widening conversion.

@@ -1,0 +1,6 @@
+1.Abstract is a keyword.
+2.Abstract class having abstract methods and concrete(implemented) methods.
+3.If any class having one abstract method that class should be declare as abstract keyword, otherwise the class will be showing compile time error.
+4.If any class extends abstract class, that class should be override all abstract all methods, otherwise the class will be showing compile time error.
+5.We cannot create object to abstract class but we can create reference to abstract class.
+6.We can declare abstract class with zero abstract methods.
